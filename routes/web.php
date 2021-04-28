@@ -14,3 +14,4 @@ use App\Http\Controllers\CarsController;
 */
 
 Route::resource('/', CarsController::class);
+Route::resource('/create', CarsController::class);

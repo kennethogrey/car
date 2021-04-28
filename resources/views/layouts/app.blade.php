@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
     <title>Laravel Cars</title>
 </head>
-<body class="bg-gray-500">
+<body class="bg-gray-300">
     @yield('content')
 </body>
 </html>
